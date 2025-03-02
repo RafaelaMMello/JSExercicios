@@ -1,2 +1,2 @@
-# JSExercicios
-Esse repositório contém cada lista de exercícios, organizadas cada uma em uma branch específica.
+# LPExercicios
+Nesta branch contém os exercícios da lista 3 de HTML.
